@@ -136,10 +136,10 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-OBJECT DEDECTED
+OBJECT DETECTED
 ![431674491-af403c96-bc49-4393-8d07-ba31b5fdbad4](https://github.com/user-attachments/assets/c43f20e4-d964-4053-8693-59ddd49681f8)
 
-OBJECT NOT DEDECTED
+OBJECT DETECTED
 ![431674343-5d1b918f-969c-4bac-a2d2-a226f6c20aa8](https://github.com/user-attachments/assets/f84ac800-5eff-4c06-9731-a5c5fc7a4244)
 
 ## Result
